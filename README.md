@@ -3,7 +3,8 @@ Takes an image, extracts the text from it and uses it as an OpenAI ChatGPT Promp
 
 Install Dependencies:
 ```bash
-pip3 install pytesseract openai simple-term-menu requests tempfile```
+pip3 install pytesseract openai simple-term-menu requests tempfile
+```
 
 ```DISCLAIMER: THE CREATOR OF THIS SCRIPT IS NOT AFFILIATED WITH OPENAI```
 
