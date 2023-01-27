@@ -3,10 +3,13 @@ Takes an image, extracts the text from it and uses it as an OpenAI ChatGPT Promp
 
 Your own copy of Tesseract is required! Full support for binary filepath setting soon!
 
-Install Dependencies:
+### Install Dependencies:
 ```bash
 pip3 install pytesseract openai simple-term-menu requests tempfile
 ```
+### Install Tesseract:
+```bash
+sudo apt install -y tesseract-ocr```
 
 ```DISCLAIMER: THE CREATOR OF THIS SCRIPT IS NOT AFFILIATED WITH OPENAI```
 
