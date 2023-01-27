@@ -9,7 +9,8 @@ pip3 install pytesseract openai simple-term-menu requests tempfile
 ```
 ### Install Tesseract:
 ```bash
-sudo apt install -y tesseract-ocr```
+sudo apt install -y tesseract-ocr
+```
 
 ```DISCLAIMER: THE CREATOR OF THIS SCRIPT IS NOT AFFILIATED WITH OPENAI```
 
